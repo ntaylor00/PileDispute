@@ -41,8 +41,7 @@ public class PileDispute4 {
 				loser = player1Name; //player 1 must remove last coin
 			}
 		}
-		System.out.print(loser + ", you must take the last remaining counter, so you lose. "
-				+ winner + " wins!");
+		System.out.print(winner + " wins!");
 	}
 	
 	//checks whether game is over and returns true if so, and false otherwise
