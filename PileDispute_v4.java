@@ -69,8 +69,8 @@ public class PileDispute4 {
 	
 	//prompts the user to enter the name of player 1 and player 2 and stores the names in variables
 	private void getPlayersName() {
-		System.out.print("Enter the name of Player 1: ");
-		player1Name = scanner.nextLine();
+		System.out.print("Player 1: Bob");
+		//player1Name = scanner.nextLine();
 		System.out.print("Enter the name of Player 2: ");
 		player2Name = scanner.nextLine();
 	}
