@@ -3,7 +3,7 @@ package cis088.week8;
 import java.util.Scanner;
 
 /*
- * Name: Nathan Taylor
+ * Name: Addison Taylor
  * Date: 03-22-24
  * Description: Description: Description: A program that uses a while loop to create a Pile Dispute game with
  * two players (with cheat protection, dignity, fancy display)
